@@ -16,3 +16,18 @@ Project:
   Final cpp file: "videofilter_pro.cpp"
   Kernel file: "videofilter.cl"
   
+### LW1: 
+
+* The vector addition work is in the "vector_add" directory. 
+* Final cpp file is "vector_add_mapping.cpp" 
+* Kernal file is "vector_add.cl"
++++
+
+  
+### LW1: 
+
+* The vector addition work is in the "vector_add" directory. 
+* Final cpp file is "vector_add_mapping.cpp" 
+* Kernal file is "vector_add.cl"
++++
+  
