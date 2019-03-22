@@ -5,7 +5,7 @@ This is a project of the course OpenCL. All the laboratory works are in "GPU" di
 
 * The vector addition work is in the "vector_add" directory. 
 * Final cpp file is "vector_add_mapping.cpp" 
-* Kernal file is "vector_add.cl"
+* Kernel file is "vector_add.cl"
   
   
 ### LW2: 
@@ -20,6 +20,7 @@ This is a project of the course OpenCL. All the laboratory works are in "GPU" di
 * The fiinal project is in the "videofilter_pro" directory.
 * Final cpp file: "videofilter_pro.cpp"
 * Kernel file: "videofilter.cl"
+* Sometimes (usually) an error may happen, so you have to try more times to succeed in filtering.
 
 
   
